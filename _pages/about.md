@@ -2,25 +2,29 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: fullstack developer (but if I'm being honest, the backend is where my heart truly lies!)
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: pierre-green.webp
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    🚚 in France (Paris - Marseille) 
 
-news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false  # includes a list of news items
+latest_posts: false  # includes a list of the newest posts
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hey there! Welcome on my personal website!
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I kicked off my coding adventures when I was just 11, diving into the world of **Minecraft** by crafting mods and plugins using **Java** (I **stopped** java to preserve my mental health). It was a blast! The Minecraft gang and various projects I got involved in over the next five years really helped me level up my skills. I got to play around with **Linux**, dabble in web projects, and team up with some cool graphic designers.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My path led me to decide to leave high school at the end of my first year (seconde), as I didn't feel aligned with the traditional educational system. In July 2017, I joined the **42 pool**, which was an essential formative experience in my development as a developer.
+
+From October 2017 to March 2018, I participated in the **"The Hive"** program organized by [thecamp](https://www.thecamp.fr/), gaining valuable project management experience. Later, in September 2018, I joined the **42 school** to further refine my skills.
+
+Since then, I've embarked on numerous freelance missions across various domains. Most of my freelance work, showcasing a diverse range of projects, can be explored on my [malt.fr profile](https://www.malt.fr/profile/pieerotgg).
+
+As a professional developer today, my primary toolkit includes **Node.JS**, **Typescript**, **Vue.JS**, and **React.JS**. However, in my side projects, where my passion really ignites, I frequently delve into **Rust**, **WebAssembly (WASM)**, and **WebGPU (WGPU)**. Beyond coding, I proficiently use advanced technologies like **Terraform**, **Kubernetes**, **Helm**, **GitHub Actions**, **GitLab CI/CD**, and **ArgoCD**.
